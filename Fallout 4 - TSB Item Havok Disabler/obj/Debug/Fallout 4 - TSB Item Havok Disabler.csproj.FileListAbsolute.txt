@@ -1,0 +1,11 @@
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\bin\Debug\Fallout 4 - TSB Item Havok Disabler.exe.config
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\bin\Debug\Fallout 4 - TSB Item Havok Disabler.exe
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\bin\Debug\Fallout 4 - TSB Item Havok Disabler.pdb
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\obj\Debug\Fallout 4 - TSB Item Havok Disabler.csprojResolveAssemblyReference.cache
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\obj\Debug\Fallout_4___TSB_Item_Havok_Disabler.Properties.Resources.resources
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\obj\Debug\Fallout 4 - TSB Item Havok Disabler.csproj.GenerateResource.Cache
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\obj\Debug\Fallout 4 - TSB Item Havok Disabler.exe
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\obj\Debug\Fallout 4 - TSB Item Havok Disabler.pdb
+c:\users\cjdesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\obj\Debug\Fallout_4___TSB_Item_Havok_Disabler.formProgramWindow.resources
+C:\Users\CJDesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CJDesk\documents\visual studio 2013\Projects\Fallout 4 - TSB Item Havok Disabler\Fallout 4 - TSB Item Havok Disabler\bin\Debug\Newtonsoft.Json.xml
