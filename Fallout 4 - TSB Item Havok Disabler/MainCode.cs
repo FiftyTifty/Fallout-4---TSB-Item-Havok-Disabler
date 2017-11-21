@@ -30,10 +30,69 @@ namespace Fallout_4___TSB_Item_Havok_Disabler_MainCode
         public string ExtraData { get; set; }
         public string FormID { get; set; }
         public int FormID_dec { get; set; }
+
+        //To make a property optional, make a bool function with a specific name: "ShouldSieralize" + NameOfTheProperty
+
+        public int PlotPath01FormID_dec { get; set; }
+        public bool ShouldSerializePlotPath01FormID_dec()
+        {
+            return (PlotPath01FormID_dec != 0  && PlotPath01Plugin != "");
+        }
+        public string PlotPath01Plugin { get; set; }
+        public bool ShouldSerializePlotPath01Plugin()
+        {
+            return (PlotPath01Plugin != null && PlotPath01Plugin != "");
+        }
+        public int PlotPath02FormID_dec { get; set; }
+        public bool ShouldSerializePlotPath02FormID_dec()
+        {
+            return (PlotPath02FormID_dec != 0 && PlotPath01Plugin != "");
+        }
+        public string PlotPath02Plugin { get; set; }
+        public bool ShouldSerializePlotPath02Plugin()
+        {
+            return (PlotPath02Plugin != null && PlotPath01Plugin != "");
+        }
+        public int PlotPath03FormID_dec { get; set; }
+        public bool ShouldSerializePlotPath03FormID_dec()
+        {
+            return (PlotPath03FormID_dec != 0 && PlotPath01Plugin != "");
+        }
+        public string PlotPath03Plugin { get; set; }
+        public bool ShouldSerializePlotPath03Plugin()
+        {
+            return (PlotPath03Plugin != null && PlotPath01Plugin != "");
+        }
         public string PlotPlanFormID { get; set; }
+        public bool ShouldSerializePlotPlanFormID()
+        {
+            return (PlotPlanFormID != null && PlotPath01Plugin != "");
+        }
         public int PlotPlanFormID_dec { get; set; }
+        public bool ShouldSerializePlotPlanFormID_dec()
+        {
+            return (PlotPlanFormID_dec != 0 && PlotPath01Plugin != "");
+        }
         public string PlotPlanPlugin { get; set; }
+        public bool ShouldSerializePlotPlanPlugin()
+        {
+            return (PlotPlanPlugin != null && PlotPath01Plugin != "");
+        }
         public int PlotStage { get; set; }
+        public bool ShouldSerializPlotStage()
+        {
+            return (PlotStage != 0 && PlotPath01Plugin != "");
+        }
+        public int PlotVIPStoryFormID_dec { get; set; }
+        public bool ShouldSerializePlotVIPStoryFormID_dec()
+        {
+            return (PlotVIPStoryFormID_dec != 0 && PlotPath01Plugin != "");
+        }
+        public string PlotVIPStoryPlugin { get; set; }
+        public bool ShouldSerializePlotVIPStoryPlugin()
+        {
+            return (PlotVIPStoryPlugin != null && PlotPath01Plugin != "");
+        }
         public int RemoveHavok { get; set; }
         public double Scale { get; set; }
         public int idx { get; set; }
